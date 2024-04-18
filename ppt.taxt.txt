@@ -1,0 +1,15 @@
+1) JTextField is a part of javax.swing package. create a object of JTextField with 4 columns
+
+2) addActionListener(ActionListener l) : set an ActionListener to the text field.
+
+3) this" stands for the current class instance that you are inside.
+   It will work as long as the class implements the ActionListener interface.
+  The addActionListener method takes the current class object as a parameter. The "this" key word simply means "this object I'm working in right now".
+
+ 4) Sets the location of the window relative to the specified component.
+    If the component is null, or the GraphicsConfiguration associated with this component is null, the window is placed in the center of the screen. 
+
+5) The setDefaultCloseOperation() method is used to specify one of several options for the close button. 
+   JFrame.EXIT_ON_CLOSE — Exit the application.
+
+6) setSize() : Sets the size(width and height) of th component.

@@ -1,0 +1,5 @@
+Project ID: localizemaps-366001.
+
+API key -  AIzaSyAXc-yZzTqF-QkwkGHE37Fj-G29p82HBhc
+
+debug certificate windows : keytool -list -v -keystore "%USERPROFILE%\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
